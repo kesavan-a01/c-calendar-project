@@ -45,13 +45,13 @@ calendar-project
 ### 1️⃣ Compile the program
 
 ```
-gcc calendar.c -o calendar
+gcc Calendar.c -o Calendar
 ```
 
 ### 2️⃣ Run the program
 
 ```
-./calendar
+./Calendar
 ```
 
 ### 3️⃣ Enter the year when prompted
