@@ -33,9 +33,9 @@ This project demonstrates fundamental programming concepts such as **loops, cond
 ```
 calendar-project
 │
-├── calendar.c
-├── README.md
-└── screenshots
+├── screenshots
+├── Calendar.c
+└── README.md
 ```
 
 ---
